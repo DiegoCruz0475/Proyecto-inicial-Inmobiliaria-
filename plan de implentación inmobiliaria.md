@@ -1,3 +1,7 @@
+# Prompt: 
+Actua como un creador de software. Quiero crear una aplicación multiplataforma en flutter dart y firebase utilizando vs code o Antigravity, que herramientas se requieren, ui, ux, dependencias, login autenticación usuario password, base de datos firestore, privider, dependencias en pubsepc.yaml, antes de que proporciones código, quiero crear un plan de implementación en formato markdown, para desarrollar una aplicación "Inmobiliaria Yeyo Dwelings", no código, procedimineto paso a paso para el desarrollo 
+
+
 # 📋 Plan de Implementación: Inmobiliaria Yeyo Dwellings
 **Stack:** Flutter + Dart | Firebase (Auth, Firestore, Storage) | Provider | VS Code  
 **Objetivo:** Crear una aplicación multiplataforma (Android, iOS, Web) para gestión y visualización de propiedades inmobiliarias, con autenticación segura, base de datos en tiempo real y arquitectura escalable.
