@@ -1,3 +1,5 @@
+# Dependencias
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/00393168-830c-4350-ac82-64403d9d73bd" />
 
 # Fase 1
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3d6b312b-c567-464f-9a42-a9ef06470692" />
